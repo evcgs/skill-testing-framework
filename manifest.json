@@ -1,0 +1,25 @@
+{
+  "id": "skill-testing-framework",
+  "name": "技能自动化测试框架",
+  "version": "1.0.0",
+  "description": "自动化测试框架，自动运行技能测试用例，生成测试报告，确保技能质量",
+  "author": "OpenClaw社区",
+  "categories": ["开发工具", "质量保证"],
+  "keywords": ["测试", "自动化", "质量保证", "测试框架"],
+  "requirements": {
+    "openclaw": ">=1.0.0",
+    "node": ">=16.0.0"
+  },
+  "permissions": [
+    "file:read",
+    "file:write",
+    "exec"
+  ],
+  "install": {
+    "steps": [
+      "npm install"
+    ]
+  },
+  "homepage": "https://github.com/evcgs/skill-testing-framework",
+  "repository": "https://github.com/evcgs/skill-testing-framework.git"
+}

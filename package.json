@@ -1,0 +1,21 @@
+{
+  "name": "skill-testing-framework",
+  "version": "1.0.0",
+  "description": "OpenClaw技能自动化测试框架",
+  "main": "scripts/test-runner.mjs",
+  "bin": {
+    "test-runner": "./scripts/test-runner.mjs",
+    "skill-test": "./scripts/test-runner.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "quality-assurance",
+    "openclaw-skill"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT"
+}

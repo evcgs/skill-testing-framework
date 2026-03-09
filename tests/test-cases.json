@@ -1,0 +1,22 @@
+{
+  "testCases": [
+    {
+      "name": "帮助信息测试",
+      "type": "unit",
+      "input": "node scripts/test-runner.mjs --help",
+      "expectedOutput": {
+        "success": true,
+        "contains": ["使用方法", "test-runner", "选项"]
+      }
+    },
+    {
+      "name": "无测试用例测试",
+      "type": "unit",
+      "input": "node scripts/test-runner.mjs /tmp/nonexistent-project",
+      "expectedOutput": {
+        "success": false,
+        "contains": ["测试用例文件不存在"]
+      }
+    }
+  ]
+}
