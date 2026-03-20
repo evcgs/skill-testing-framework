@@ -107,11 +107,11 @@ skill-test --ci
 ### 微信交流群
 扫码加入用户交流群，获取最新更新、使用技巧和技术支持：
 
-<img src="wxq.jpg" alt="微信群二维码" width="200" height="200">
+<img src="https://raw.githubusercontent.com/evcgs/skill-testing-framework/main/images/wxq.jpg" alt="微信群二维码" width="200" height="200">
 
 > （群二维码已过期，请添加下方微信备注来意拉群）
 
 ### 联系我们
 - **微信**：添加微信，备注「测试框架+来意」
 
-<img src="wx.png" alt="个人微信" width="200" height="200">
+<img src="https://raw.githubusercontent.com/evcgs/skill-testing-framework/main/images/wx.png" alt="个人微信" width="200" height="200">
