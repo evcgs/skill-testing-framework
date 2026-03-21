@@ -104,14 +104,11 @@ skill-test --ci
 - ✅ 错误信息详细展示，快速定位问题
 
 ## 💬 交流与支持
-### 微信交流群
-扫码加入用户交流群，获取最新更新、使用技巧和技术支持：
 
-<img src="https://raw.githubusercontent.com/evcgs/skill-testing-framework/main/images/wxq.jpg" alt="微信群二维码" width="200" height="200">
+欢迎交流讨论，一起改进技能自动化测试框架：
 
-> （群二维码已过期，请添加下方微信备注来意拉群）
+### 个人微信
 
-### 联系我们
-- **微信**：添加微信，备注「测试框架+来意」
+添加微信，备注「技能测试框架+来意」：
 
 <img src="https://raw.githubusercontent.com/evcgs/skill-testing-framework/main/images/wx.png" alt="个人微信" width="200" height="200">
